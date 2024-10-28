@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "markdown-folder-to-html": "^2.4.0"
+  },
+  "scripts": {"run": "markdown-folder-to-html publish"}
+}
