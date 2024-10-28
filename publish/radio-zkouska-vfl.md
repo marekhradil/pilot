@@ -2,6 +2,8 @@
 
 Na zkoušku je možné se přihlásit pouze písemně. Já jsem využil datovku je to nejpohodlnější. Odpověděli do datovky i na email a dali mi termín cca za měsíc od žádosti. První termín mi z pracovních důvodů nevyhovoval, takže jsem emailem požádal o změnu a dostal další cca o měsíc později.
 
+Je to trošku bizardní zážitek. ČTÚ je úřad starého střihu. Na začátku se musíte zapsat do seznamu, pak si Vás někdo vyzvedne na vrátnici, nesmíte se nikde pohybovat mimo vymezené místnosti, všichni se tváří strašně vážně, nesmíte po zkoušce ani sami odejít, opět Vás odvedou, atd... 
+
 ## Písemná část
 
 Je dobré to udělat rychle (podle pořadí odevzdání Vás volají na ústní část, přednost mají jen ti, kteří neudělali a pošlou je domů) a správně. Připravte se na to, že se vás budou ptát na ty otázky, které máte v testu špatně.
